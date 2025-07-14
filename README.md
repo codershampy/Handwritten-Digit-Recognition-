@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition
-A Handwritten Digit Recognition model is a machine learning model designed to automatically identify and classify handwritten digits (0 through 9) from image inputs.It is a supervised learning model that processes input images (typically 28x28 grayscale pixels) and outputs a predicted class label (0–9), using features extracted from the image to learn patterns associated with each digit class.
+A Handwritten Digit Recognition model is a machine learning model designed to automatically identify and classify handwritten digits (0- 9) from image inputs.It is a supervised learning model that processes input images (typically 28x28 grayscale pixels) and outputs a predicted class label (0–9), using features extracted from the image to learn patterns associated with each digit class.
 
 Objective: To train a machine learning (or deep learning) model to accurately classify handwritten digits from the MNIST dataset.
 
